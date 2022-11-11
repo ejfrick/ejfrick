@@ -1,4 +1,4 @@
-Hi, you can call me EJ. I'm a site reliability engineer @ Box currently; you can find waaaay more info about me on my [website](www.engjole.net)
+Hi, you can call me EJ. I'm a site reliability engineer @ Box currently; you can find waaaay more info about me on my [website](https://www.engjole.net)
 
 tl;dr: into distributed systems, Python, DevOps strategy, & platform engineering.
 
